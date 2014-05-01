@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<LoaderMax name="login_ui_batch">
+		<SWFLoader name='login_ui' url='assets/swf/ui/login/login_ui.swf' autoPlay= "false" version="1.0.0"/>
+		<SWFLoader name="server_ui" url="assets/swf/ui/login/servers_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="create_role_ui" url="assets/swf/ui/login/create_role_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="choose_mode_ui" url="assets/swf/ui/login/choose_mode_ui.swf" autoPlay="false" version="1.0.0" />
+	</LoaderMax>
+	<LoaderMax name="hall1_ui_batch">
+		<SWFLoader name="hall1_ui" url="assets/swf/ui/hall/hall1_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="create_battle_room_ui" url="assets/swf/ui/hall/create_room_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="card_config_ui" url="assets/swf/ui/config/card_config_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="card_control_ui" url="assets/swf/ui/room/card_control_ui.swf" autoPlay="false" version="1.0.0" />
+	</LoaderMax>
+	<LoaderMax name="battle_ui">
+		<SWFLoader name="numeric_ui" url="assets/swf/ui/numeric_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="battle_room_ui" url="assets/swf/ui/room/battle_room_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="battle_game_ui" url="assets/swf/ui/room/battle_game_ui.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name="dice" url="assets/swf/ui/dice.swf" autoPlay="false" version="1.0.0" />
+		<SWFLoader name='paidui' url='assets/swf/cards/paidui.swf' autoPlay= "false" version="1.0.0"/>
+		<SWFLoader name="paidui_ui" url="assets/swf/ui/room/paidui_ui.swf" autoPlay="false" version="1.0.0" />
+	</LoaderMax>
+	
+	<SWFLoader name='demon_deladiya' url='assets/swf/cards/hero/demon_deladiya.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='demon_motedan' url='assets/swf/cards/hero/demon_motedan.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='demon_naluke' url='assets/swf/cards/hero/demon_naluke.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='demon_wokelieke' url='assets/swf/cards/hero/demon_wokelieke.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='demon_xiuerdun' url='assets/swf/cards/hero/demon_xiuerdun.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='heaven_airuisi' url='assets/swf/cards/hero/heaven_airuisi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='heaven_aolikeruisi' url='assets/swf/cards/hero/heaven_aolikeruisi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='heaven_yinnuoruier' url='assets/swf/cards/hero/heaven_yinnuoruier.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='heaven_yixisi' url='assets/swf/cards/hero/heaven_yixisi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='heaven_younuoruier' url='assets/swf/cards/hero/heaven_younuoruier.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='mankind_foluolin' url='assets/swf/cards/hero/mankind_foluolin.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='mankind_hainawei' url='assets/swf/cards/hero/mankind_hainawei.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='mankind_huobide' url='assets/swf/cards/hero/mankind_huobide.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='mankind_jiasite' url='assets/swf/cards/hero/mankind_jiasite.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='mankind_mengqi' url='assets/swf/cards/hero/mankind_mengqi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='spirit_aier' url='assets/swf/cards/hero/spirit_aier.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='spirit_kaiwen' url='assets/swf/cards/hero/spirit_kaiwen.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='spirit_maiya' url='assets/swf/cards/hero/spirit_maiya.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='spirit_wode' url='assets/swf/cards/hero/spirit_wode.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='spirit_yilan' url='assets/swf/cards/hero/spirit_yilan.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='titan_atimosi' url='assets/swf/cards/hero/titan_atimosi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='titan_ekeersi' url='assets/swf/cards/hero/titan_ekeersi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='titan_keesi' url='assets/swf/cards/hero/titan_keesi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='titan_kelatisi' url='assets/swf/cards/hero/titan_kelatisi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='titan_tiya' url='assets/swf/cards/hero/titan_tiya.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='undead_bisier' url='assets/swf/cards/hero/undead_bisier.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='undead_dimeng' url='assets/swf/cards/hero/undead_dimeng.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='undead_jiaermazuo' url='assets/swf/cards/hero/undead_jiaermazuo.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='undead_panni' url='assets/swf/cards/hero/undead_panni.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='undead_puleige' url='assets/swf/cards/hero/undead_puleige.swf' autoPlay= "false" version="1.0.0"/>
+
+	<SWFLoader name='chaos_1_duyeqinshizhe' url='assets/swf/cards/chaos_1_duyeqinshizhe.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_1_gebulin' url='assets/swf/cards/chaos_1_gebulin.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_1_juduzhizhu' url='assets/swf/cards/chaos_1_juduzhizhu.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_1_langren' url='assets/swf/cards/chaos_1_langren.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_1_youlong' url='assets/swf/cards/chaos_1_youlong.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_2_banshouren' url='assets/swf/cards/chaos_2_banshouren.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_2_goutourenwushi' url='assets/swf/cards/chaos_2_goutourenwushi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_2_niutouren' url='assets/swf/cards/chaos_2_niutouren.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_2_yingshennvyao' url='assets/swf/cards/chaos_2_yingshennvyao.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_3_duyanjuren' url='assets/swf/cards/chaos_3_duyanjuren.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_3_shaqiulichishou' url='assets/swf/cards/chaos_3_shaqiulichishou.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_3_shirenmowushi' url='assets/swf/cards/chaos_3_shirenmowushi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_4_baozoudilong' url='assets/swf/cards/chaos_4_baozoudilong.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_4_jiutoushe' url='assets/swf/cards/chaos_4_jiutoushe.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='chaos_5_leitingjushou' url='assets/swf/cards/chaos_5_leitingjushou.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_1_diyuquan' url='assets/swf/cards/hell_1_diyuquan.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_1_kuloufashi' url='assets/swf/cards/hell_1_kuloufashi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_1_sangshi' url='assets/swf/cards/hell_1_sangshi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_1_shishigui' url='assets/swf/cards/hell_1_shishigui.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_1_xiaoemo' url='assets/swf/cards/hell_1_xiaoemo.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_2_heianruchong' url='assets/swf/cards/hell_2_heianruchong.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_2_lijianguai' url='assets/swf/cards/hell_2_lijianguai.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_2_shixianggui' url='assets/swf/cards/hell_2_shixianggui.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_2_xixuegui' url='assets/swf/cards/hell_2_xixuegui.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_3_diyumojun' url='assets/swf/cards/hell_3_diyumojun.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_3_kuloujiangjun' url='assets/swf/cards/hell_3_kuloujiangjun.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_3_wuyao' url='assets/swf/cards/hell_3_wuyao.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_4_duoluozhiwang' url='assets/swf/cards/hell_4_duoluozhiwang.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_4_kuloulingzhu' url='assets/swf/cards/hell_4_kuloulingzhu.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='hell_5_longhun' url='assets/swf/cards/hell_5_longhun.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_1_chidunweishi' url='assets/swf/cards/holy_1_chidunweishi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_1_huwei' url='assets/swf/cards/holy_1_huwei.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_1_shizhe' url='assets/swf/cards/holy_1_shizhe.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_1_xintu' url='assets/swf/cards/holy_1_xintu.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_1_xunluobing' url='assets/swf/cards/holy_1_xunluobing.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_2_mushi' url='assets/swf/cards/holy_2_mushi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_2_shengqishi' url='assets/swf/cards/holy_2_shengqishi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_2_yuansujiejing' url='assets/swf/cards/holy_2_yuansujiejing.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_2_zhongjiabing' url='assets/swf/cards/holy_2_zhongjiabing.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_3_fengmozhe' url='assets/swf/cards/holy_3_fengmozhe.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_3_juxiang' url='assets/swf/cards/holy_3_juxiang.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_3_shengnv' url='assets/swf/cards/holy_3_shengnv.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_4_liehuozhanshen' url='assets/swf/cards/holy_4_liehuozhanshen.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_4_shengdishouhuzhe' url='assets/swf/cards/holy_4_shengdishouhuzhe.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='holy_5_shenpantianshi' url='assets/swf/cards/holy_5_shenpantianshi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_1_dalianhua' url='assets/swf/cards/nature_1_dalianhua.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_1_dumanteng' url='assets/swf/cards/nature_1_dumanteng.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_1_huahudie' url='assets/swf/cards/nature_1_huahudie.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_1_huaxianzi' url='assets/swf/cards/nature_1_huaxianzi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_1_lang' url='assets/swf/cards/nature_1_lang.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_2_banrenma' url='assets/swf/cards/nature_2_banrenma.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_2_jisi' url='assets/swf/cards/nature_2_jisi.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_2_mowenbao' url='assets/swf/cards/nature_2_mowenbao.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_2_xiaoairenqiangshou' url='assets/swf/cards/nature_2_xiaoairenqiangshou.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_3_dujiaoshou' url='assets/swf/cards/nature_3_dujiaoshou.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_3_shuwang' url='assets/swf/cards/nature_3_shuwang.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_3_yueshenshizhe' url='assets/swf/cards/nature_3_yueshenshizhe.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_4_dadinvshen' url='assets/swf/cards/nature_4_dadinvshen.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_4_feicuilinglong' url='assets/swf/cards/nature_4_feicuilinglong.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='nature_5_xiannvshenglong' url='assets/swf/cards/nature_5_xiannvshenglong.swf' autoPlay= "false" version="1.0.0"/>
+	
+	<SWFLoader name='skill_cisha' url='assets/swf/skills/cisha.swf' autoPlay= "false" version="1.0.0"/>
+	
+	<SWFLoader name='effect_highlight1' url='assets/swf/effects/effect_highlight1.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='effect_fire1' url='assets/swf/effects/effect_fire1.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='effect_positive1' url='assets/swf/effects/effect_positive1.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='effect_jianyi1' url='assets/swf/effects/effect_jianyi1.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='effect_recover1' url='assets/swf/effects/effect_recover1.swf' autoPlay= "false" version="1.0.0"/>
+	<SWFLoader name='effect_hero_human_jiasite1' url='assets/swf/effects/effect_hero_human_jiasite1.swf' autoPlay= "false" version="1.0.0"/>
+
+</root>
